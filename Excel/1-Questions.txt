@@ -1,0 +1,5 @@
+1. Make sure indexing is properly done.
+2. Fill the missing values with one value above.
+3. Get the name, id of the employee who has the maximum salary.
+4. create a column that shows the percentage hike received by any employee.
+5. get the name, id of first 5 employees who has received the highest hike.
