@@ -1,0 +1,5 @@
+Questions to be answered & visualizations to be made - 
+1. How 'age' of the person, affects the user advertisement click.
+2. How 'gender' of the person, affects the user advertisement click.
+3. How 'country' of the person, affects the user advertisement click.
+4. How 'daily internet usage' of the person, affects the user advertisement click.
