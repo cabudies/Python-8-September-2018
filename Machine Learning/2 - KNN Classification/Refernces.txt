@@ -1,0 +1,6 @@
+Basics - https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
+
+Advance - 
+https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+
+Video - https://www.youtube.com/watch?v=UqYde-LULfs
